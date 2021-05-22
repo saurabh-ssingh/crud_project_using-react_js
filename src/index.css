@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+#user_name{
+    width: 50%;
+}
+
+.container_Sign{
+    
+    color: black;
+    margin: 10%;
+    text-align: center;
+    background-color: rgb(155, 197, 197);
+    
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 60%;
+}
+
+a.active-class{
+    color:blue;
+    border-bottom: 5px solid red;
+}
+.nav_Container{
+    
+    width: 100%;
+    line-height: 60px;
+    background-color: #20232a;
+    display:flex;
+    justify-content: space-around;
+}
+
+.error_page{
+    
+    background-color: rgb(157, 211, 224);
+    text-align: center;
+    padding:21.08%
+}
